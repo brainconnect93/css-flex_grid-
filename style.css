@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  background-color: pink;
+  padding: 10px;
+  font-size: 24px;
+  color: aqua;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center;
+  height: 600px;
+}
+
+.container div {
+  padding: 25px;
+  background-color: blueviolet;
+  margin: 20px;
+}
+
+.item1 {
+  style: flex-grow;
+}
