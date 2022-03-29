@@ -18,14 +18,38 @@
 }
 
 .item1 {
-   flex-grow : 0;
+   order: 4;
+   width: 200px;
+   
 }
 .item2{
-  flex-grow: 1;
+  order: 3;
+  width: 200px;
 }
 .item3{
-  flex-grow: 3;
+  order: 2;
+  width: 300px;
 }
+.item4{
+  order: 4;
+  width: 200px;
+}
+.item5{
+  order: 1;
+  width: 200px;
+
+}
+
 .item6{
-  flex-grow: 5;
+  order: 6;
+  width: 200px;
 }
+.item7{
+order: 7;
+
+}
+.item8{
+order: 8;
+width: 200px;
+}
+
