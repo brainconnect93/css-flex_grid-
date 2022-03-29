@@ -18,5 +18,14 @@
 }
 
 .item1 {
-  style: flex-grow;
+   flex-grow : 0;
+}
+.item2{
+  flex-grow: 1;
+}
+.item3{
+  flex-grow: 3;
+}
+.item6{
+  flex-grow: 5;
 }
